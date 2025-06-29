@@ -15,91 +15,91 @@
 
 ### Route table : A route table is like a map that helps data find it ways around a network. it also known as NAVIGATION SYSTEM for data on a network, helping it find the fastest and most efficient paths to where its needs to go.
 
-![vpc](./imgs/vpc1.jpg)
+![vpc](./IMGS/vpc1.jpg)
 
-![vpc](./imgs/vpc2.jpg)
+![vpc](./IMGS/vpc2.jpg)
 
-![vpc](./imgs/vpc3.jpg)
+![vpc](./IMGS/vpc3.jpg)
 
-![vpc](./imgs/vpc4.jpg)
+![vpc](./IMGS/vpc4.jpg)
 
-![vpc](./imgs/vpc5.jpg)
+![vpc](./IMGS/vpc5.jpg)
 
-![vpc](./imgs/vpc6.jpg)
+![vpc](./IMGS/vpc6.jpg)
 
-![vpc](./imgs/vpc7.jpg)
+![vpc](./IMGS/vpc7.jpg)
 
-![vpc](./imgs/vpc8.jpg)
+![vpc](./IMGS/vpc8.jpg)
 
-![vpc](./imgs/vpc9.jpg)
+![vpc](./IMGS/vpc9.jpg)
 
-![vpc](./imgs/vpc10.jpg)
+![vpc](./IMGS/vpc10.jpg)
 
-![vpc](./imgs/vpc11.jpg)
+![vpc](./IMGS/vpc11.jpg)
 
-![vpc](./imgs/vpc12.jpg)
+![vpc](./IMGS/vpc12.jpg)
 
-![vpc](./imgs/vpc13.jpg)
+![vpc](./IMGS/vpc13.jpg)
 
-![vpc](./imgs/vpc14.jpg)
+![vpc](./IMGS/vpc14.jpg)
 
-![vpc](./imgs/vpc15.jpg)
+![vpc](./IMGS/vpc15.jpg)
 
-![vpc](./imgs/vpc16.jpg)
+![vpc](./IMGS/vpc16.jpg)
 
-![vpc](./imgs/vpc17.jpg)
+![vpc](./IMGS/vpc17.jpg)
 
-![vpc](./imgs/vpc18.jpg)
+![vpc](./IMGS/vpc18.jpg)
 
-![vpc](./imgs/vpc19.jpg)
+![vpc](./IMGS/vpc19.jpg)
 
-![vpc](./imgs/vpc20.jpg)
+![vpc](./IMGS/vpc20.jpg)
 
-![vpc](./imgs/vpc21.jpg)
+![vpc](./IMGS/vpc21.jpg)
 
-![vpc](./imgs/vpc22.jpg)
+![vpc](./IMGS/vpc22.jpg)
 
-![vpc](./imgs/vpc23.jpg)
+![vpc](./IMGS/vpc23.jpg)
 
-![vpc](./imgs/vpc24.jpg)
+![vpc](./IMGS/vpc24.jpg)
 
-![vpc](./imgs/vpc25.jpg)
+![vpc](./IMGS/vpc25.jpg)
 
-![vpc](./imgs/vpc26.jpg)
+![vpc](./IMGS/vpc26.jpg)
 
-![vpc](./imgs/vpc27.jpg)
+![vpc](./IMGS/vpc27.jpg)
 
-![vpc](./imgs/vpc28.jpg)
+![vpc](./IMGS/vpc28.jpg)
 
-![vpc](./imgs/vpc29.jpg)
+![vpc](./IMGS/vpc29.jpg)
 
-![vpc](./imgs/vpc30.jpg)
+![vpc](./IMGS/vpc30.jpg)
 
-![vpc](./imgs/vpc31.jpg)
+![vpc](./IMGS/vpc31.jpg)
 
-![vpc](./imgs/vpc32.jpg)
+![vpc](./IMGS/vpc32.jpg)
 
-![vpc](./imgs/vpc33.jpg)
+![vpc](./IMGS/vpc33.jpg)
 
-![vpc](./imgs/vpc34.jpg)
+![vpc](./IMGS/vpc34.jpg)
 
-![vpc](./imgs/vpc35.jpg)
+![vpc](./IMGS/vpc35.jpg)
 
-![vpc](./imgs/vpc36.jpg)
+![vpc](./IMGS/vpc36.jpg)
 
-![vpc](./imgs/vpc37.jpg)
+![vpc](./IMGS/vpc37.jpg)
 
-![vpc](./imgs/vpc38.jpg)
+![vpc](./IMGS/vpc38.jpg)
 
-![vpc](./imgs/vpc39.jpg)
+![vpc](./IMGS/vpc39.jpg)
 
-![vpc](./imgs/vpc40.jpg)
+![vpc](./IMGS/vpc40.jpg)
 
-![vpc](./imgs/vpc41.jpg)
+![vpc](./IMGS/vpc41.jpg)
 
-![vpc](./imgs/vpc42.jpg)
+![vpc](./IMGS/vpc42.jpg)
 
-![vpc](./imgs/vpc43.jpg)
+![vpc](./IMGS/vpc43.jpg)
 
-![vpc](./imgs/vpc44.jpg)
+![vpc](./IMGS/vpc44.jpg)
 
